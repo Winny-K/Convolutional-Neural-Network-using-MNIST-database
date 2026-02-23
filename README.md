@@ -81,7 +81,3 @@ The MNIST dataset will be automatically downloaded on first run.
 - [Matplotlib](https://matplotlib.org/)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
